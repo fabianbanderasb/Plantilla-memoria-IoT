@@ -470,6 +470,3 @@ KOMA-script documentation for details.}]{fancyhdr}
 \endinput
 % lazyLizardTracer
 
-
-
-
